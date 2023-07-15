@@ -1,0 +1,7 @@
+imblearn==0.0
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+imbalanced-learn
